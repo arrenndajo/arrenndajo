@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Jay Parmar
 - 👀 I’m passionate about Photography
-- 🌱 I’m currently learning C Programming
+- 🌱 I’m currently learning Python Programming
 
 <!---
 - 💞️ I’m looking to collaborate on ...
