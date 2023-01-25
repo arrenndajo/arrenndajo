@@ -1,5 +1,5 @@
 - 👋 Hey, I’m Jay Parmar
-- 👀 I’m passionate about Photography
+- 📸 I’m passionate about Photography
 - 🌱 I’m currently learning Python Programming
 
 <!---
