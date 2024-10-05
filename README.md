@@ -1,4 +1,5 @@
 ## 🙋🏻‍♂️ Hi, I'm Jay Parmar!
+A passionate Frontend Developer from Mumbai, India.
 
 ## 🚀 About Me
 I’m currently working on my Portfolio!
