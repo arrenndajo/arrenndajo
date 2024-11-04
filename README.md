@@ -12,14 +12,14 @@ Web Developer from Mumbai, India.
 
 ## Projects:
 <p align="left">
+  <a href="https://github.com/arrenndajo/Donezo-To-Do-List"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=WeatherHub&theme=merko&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/arrenndajo/Python-Script-Folder-Organizer"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Python-Script-Folder-Organizer&theme=merko&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/arrenndajo/TicTacToe-Game"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=TicTacToe-Game&theme=merko&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/arrenndajo/Calcify-calculator"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Calcify-calculator&theme=merko&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/arrenndajo/WeatherHub"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=WeatherHub&theme=merko&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=TicTacToe-Game&theme=merko&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Python-Script-Folder-Organizer&theme=merko&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Donezo-To-Do-List&theme=merko&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Calcify-calculator&theme=merko&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Hindi-Sentiment-Analysis&theme=merko&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=AI-Jurist-Project&theme=merko&show_icons=true" alt="github-readme-stats"></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Blockchain-based-Project&theme=merko&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/arrenndajo/AI-Jurist-Project"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=AI-Jurist-Project&theme=merko&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/arrenndajo/Hindi-Sentiment-Analysis"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Hindi-Sentiment-Analysis&theme=merko&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/arrenndajo/Blockchain-based-Project"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Blockchain-based-Project&theme=merko&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
 ## GitHub Stats:
