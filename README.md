@@ -12,7 +12,7 @@ Web Developer from Mumbai, India.
 
 ## Projects:
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=WeatherHub&theme=merko&show_icons=true" alt="github-readme-stats"></a>
+  <a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/arrenndajo/WeatherHub)"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=WeatherHub&theme=merko&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=TicTacToe-Game&theme=merko&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Python-Script-Folder-Organizer&theme=merko&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Donezo-To-Do-List&theme=merko&show_icons=true" alt="github-readme-stats"></a>
