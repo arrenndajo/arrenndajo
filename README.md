@@ -1,5 +1,5 @@
 ## Hi, I'm Jay Parmar! 🙋🏻‍♂️
-Web Developer from Mumbai, India.
+Software Developer from Mumbai, India.
 
 ## Tech Stack:
 <div align="left">
