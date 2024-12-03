@@ -1,12 +1,6 @@
 ## Hi, I'm Jay Parmar! 🙋🏻‍♂️
 Software Developer from Mumbai, India.
 
-## Tech Stack:
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,mysql,r" />
-    <img src="https://skillicons.dev/icons?i=git,tailwind,bootstrap,firebase" /><br>
-</div>
-
 ## Projects:
 <p align="left">
   <a href="https://github.com/arrenndajo/Donezo-To-Do-List"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Donezo-To-Do-List&theme=merko&show_icons=true" alt="github-readme-stats"></a>
@@ -19,10 +13,22 @@ Software Developer from Mumbai, India.
   <a href="https://github.com/arrenndajo/Blockchain-based-Project"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Blockchain-based-Project&theme=merko&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
+## Tech Stack:
+<div align="left">
+    <p>Languages:</p>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,r"/><br>
+    <p>Databases:</p>
+    <img src="https://skillicons.dev/icons?i=mysql,firebase"/><br>
+    <p>Frameworks:</p>
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind"/><br>
+    <p>Tools/OS:</p>
+    <img src="https://skillicons.dev/icons?i=git,linux"/<br>
+</div>
+
 ## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arrenndajo&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arrenndajo&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrenndajo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arrenndajo&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Socials:
 <p align="left">
