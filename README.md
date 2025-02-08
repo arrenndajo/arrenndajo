@@ -1,5 +1,5 @@
 ## 🙋🏻‍♂️ Hi, I'm Jay Parmar! 
-Software Developer from Mumbai, India.
+Software Engineer from Mumbai, India.
 
 ## 🚀 Projects
 <p align="left">
