@@ -36,3 +36,5 @@
 
 ## 👥 Profile Visits
 [![](https://visitcount.itsvg.in/api?id=arrenndajo&icon=0&color=3)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam5522&label=Profile%20views&color=0e75b6&style=flat" alt="arrenndajo" /> </p>
+
