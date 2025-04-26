@@ -12,14 +12,8 @@
 
 ## 💻 Tech Stack
 <div align="left">
-    <p>Languages:</p>
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,javascript,r"/><br>
-    <p>Databases:</p>
-    <img src="https://skillicons.dev/icons?i=mysql,firebase"/><br>
-    <p>Frameworks:</p>
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind"/><br>
-    <p>Tools/OS:</p>
-    <img src="https://skillicons.dev/icons?i=git,linux"/<br>
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,vercel,firebase,linux,tailwind,bootstrap"/><br>
+    <p>python • html • css • javascript • mysql • git • vercel • firebase • linux • tailwind • bootstrap</p>
 </div>
 
 <!--  
