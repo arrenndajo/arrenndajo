@@ -13,7 +13,7 @@
 ## 💻 Tech Stack
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,html,css,javascript,mysql,git,vercel,firebase,linux,tailwind,bootstrap"/><br>
-    <p>python • html • css • javascript • mysql • git • vercel • firebase • linux • tailwind • bootstrap</p>
+    <!-- <p>python • html • css • javascript • mysql • git • vercel • firebase • linux • tailwind • bootstrap</p> -->
 </div>
 
 <!--  
