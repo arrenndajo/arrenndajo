@@ -1,4 +1,4 @@
-### `🙋🏻‍♂️ Hello World!`
+## `🙋🏻‍♂️ Hello World!`
 
 ```json
 {
@@ -8,14 +8,14 @@
 }
 ```
 
-### `🚀 Projects • Top 3`
+### `🚀 Top 3 Projects`
 <p align="left">
     <a href="https://github.com/arrenndajo/ExpenseTrackerWebApp"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=ExpenseTrackerWebApp&theme=merko&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/arrenndajo/Donezo-To-Do-List"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Donezo-To-Do-List&theme=merko&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/arrenndajo/Python-Script-Folder-Organizer"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Python-Script-Folder-Organizer&theme=merko&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
-### `💻 Current Tech Stack`
+### `💻 Tech Stack`
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nextjs,nodejs,mysql,django,git,vercel,firebase,linux,tailwind,bootstrap"/><br>
     <!-- <p>python • html • css • javascript • mysql • git • vercel • firebase • linux • tailwind • bootstrap</p> -->
