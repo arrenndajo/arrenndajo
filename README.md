@@ -17,6 +17,7 @@
 </p>
 
 ### `💻 Tech Stack`
+<p>Languages and Tools I use:</p>
 <div align="left">
     <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mysql,django,git,firebase,aws,fastapi,tailwind,bootstrap"/><br>
 </div>
