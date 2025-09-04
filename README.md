@@ -18,8 +18,10 @@
 
 ### `💻 Tech Stack`
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nextjs,nodejs,mysql,django,git,vercel,firebase,aws,fastapi,linux,tailwind,bootstrap,github"/><br>
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mysql,django,git,firebase,aws,fastapi,tailwind,bootstrap"/><br>
 </div>
+
+[![My Skills](https://skillicons.dev/icons?i=vercel,linux,windows,apple,github,figma&theme=light)](https://skillicons.dev)
 
 <!--
 
