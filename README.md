@@ -18,7 +18,7 @@
 ### `💻 Tech Stack`
 <p>Languages and Tools I use:</p>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mysql,django,git,vercel,firebase,aws,fastapi,tailwind,bootstrap"/><br>
+    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,mysql,django,git,vercel,firebase,aws,tailwind,bootstrap"/><br>
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,apple,github,figma&theme=light)](https://skillicons.dev)
