@@ -7,13 +7,15 @@
   "role": "Software Engineer",
 }
 ```
-
+<!--
 ### `🚀 Top Projects`
 <p align="left">
     <a href="https://github.com/arrenndajo/ExpenseTrackerWebApp"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=ExpenseTrackerWebApp&theme=merko&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/arrenndajo/Donezo-To-Do-List"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Donezo-To-Do-List&theme=merko&show_icons=true" alt="github-readme-stats"></a>
   <a href="https://github.com/arrenndajo/Python-Script-Folder-Organizer"><img width="270" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=arrenndajo&repo=Python-Script-Folder-Organizer&theme=merko&show_icons=true" alt="github-readme-stats"></a>
 </p>
+-->
+
 
 ### `💻 Tech Stack`
 <p>Languages and Tools I use:</p>
