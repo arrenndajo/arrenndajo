@@ -3,7 +3,7 @@
 ```json
 {
   "name": "Jay Parmar",
-  "contact": "jhb9204[at]gmail.com",
+  "contact": "jparmar9@asu.edu",
   "role": "Software Engineer",
 }
 ```
